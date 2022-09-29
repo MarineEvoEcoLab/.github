@@ -26,7 +26,7 @@ Here, you will find a collection of repositories focused on open, reproducible s
 ## Online Laboratory Notebooks
 
 - PI
-    - [Jon](https://jpuritz.github.io/Puritz_Lab_Notebook/)
+    - [Jonathan Puritz](https://jpuritz.github.io/Puritz_Lab_Notebook/)
 - Lab Manager (2018-2021)
     - [Maggie Schedl](https://meschedl.github.io/MES_Puritz_Lab_Notebook/)
 - Grad Students
