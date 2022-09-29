@@ -1,7 +1,38 @@
-# The Puritz Lab of Marine Evolutionary Ecology
+# The Puritz Lab of Marine Evolutionary Ecology Open Science Repository
 
-Coastal ecosystems face a complex of stressors that span multiple temporal and spatial scales, from long-term global ocean change to localized episodes of coastal acidification, and marine species experience these multiple stressors simultaneously.  Understanding how marine populations will evolve in response to environmental change requires investigating the synergistic impacts of multiple stressors across all life stages.
+### Welcome!
 
+Here, you will find a collection of repositories focused on open, reproducible science.
+
+## Pinned Repositories:
+
+**EecSeq** [https://github.com/MarineEvoEcoLab/EecSeq](https://github.com/MarineEvoEcoLab/EecSeq)
+ * The lastest and greatest protocol and bioinformatics for EecSeq
+
+**Public Resources**  [https://github.com/MarineEvoEcoLab/PublicResourcesSection](https://github.com/MarineEvoEcoLab/PublicResourcesSection)
+ * This repository has a full description of one of our experimental aquaculture systems, capable of cycling pH and dissolved oxygen on a diurnal cycle
+
+## Puritz Lab repositories hosted outside of this github organization
+
+**Haplotig-masked Eastern Oyster Genome** [https://github.com/The-Eastern-Oyster-Genome-Project/2022_Eastern_Oyster_Haplotig_Masked_Genome](https://github.com/The-Eastern-Oyster-Genome-Project/2022_Eastern_Oyster_Haplotig_Masked_Genome)
+ * Repository for Puritz et al. 2022 "A second unveiling: haplotig masking of existing genomic resources improves population-level inference"
+
+**dDocent: a bash pipeline for RAD sequencing** [https://github.com/jpuritz/dDocent](https://github.com/jpuritz/dDocent)
+ * Also see [dDocent.com](dDocent.com) for documentation
+
+**Seascape genomics of eastern oyster is Narragansett Bay** [https://github.com/amyzyck/EecSeq_NB_EasternOyster](https://github.com/amyzyck/EecSeq_NB_EasternOyster)
+ * Expressed Exome Capture Sequencing (EecSeq) bioinformatic pipeline for a seascape genomics analysis assessing the effects of sewage effluent and coastal acidification on populations of the Eastern Oyster in Narragansett Bay
  
+## Online Laboratory Notebooks
 
-Our research investigates how natural and anthropogenic processes affect the evolution of marine populations through the lens of larval dispersal.  We combine laboratory multi-stressor larval exposure experiments with genomic surveys of natural populations, analyzing patterns of selection and migration in a geographic context using landscape (or seascape) genomic models.  Our lab also develops laboratory and bioinformatic methods to facilitate the use of next-generation sequencing in non-model species.
+- PI
+    - [Jon](https://jpuritz.github.io/Puritz_Lab_Notebook/)
+- Lab Manager (2018-2021)
+    - [Maggie Schedl](https://meschedl.github.io/MES_Puritz_Lab_Notebook/)
+- Grad Students
+    - [Amy Zyck](https://amyzyck.github.io/AmyZyck_Notebook/)
+    - [Jacob Green](https://madmolecularman.github.io/JMG_Puritz_Lab_Notebook/)
+    - [Natalie Ameral](https://njameral.github.io/Ameral_Lab_Notebook/)
+    - Megan Guidry
+    - Gabe Barret
+- Undergrads
