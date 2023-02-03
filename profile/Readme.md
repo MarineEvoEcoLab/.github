@@ -35,6 +35,6 @@ Here, you will find a collection of repositories focused on open, reproducible s
     - [Amy Zyck](https://amyzyck.github.io/AmyZyck_Notebook/)
     - [Jacob Green](https://madmolecularman.github.io/JMG_Puritz_Lab_Notebook/)
     - [Natalie Ameral](https://njameral.github.io/Ameral_Lab_Notebook/)
-    - Megan Guidry
-    - Gabe Barret
+    - [Megan Guidry](https://github.com/mguid73)
+    - [Gabe Barret](https://github.com/Gabriel-A-Barrett)
 - Undergrads
